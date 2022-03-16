@@ -1,6 +1,9 @@
-### Hi there 👋 I'm Yohana Christanti
-
 <h1> Hi, I'm Yohana <h1>
+
+- 🔭 I’m currently working on Automotive Manufacturing
+- 🌱 I’m currently learning Python & React Native
+- ⚡ Fun fact: Running My Final Project for Bachelor's Degree in this year
+
 
 <p align="center">
     <a href="https://github.com/jojohahana/" target="_blank">
@@ -32,9 +35,3 @@
     <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
     <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
 </p>
-
-- 🔭 I’m currently working on Automotive Manufacturing
-- 🌱 I’m currently learning Python & React Native
-- ⚡ Fun fact: Running My Final Project for Bachelor's Degree in this year
-
-
