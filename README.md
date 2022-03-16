@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Automotive Manufacturing
 - 🌱 I’m currently learning Python & React Native
 - ⚡ Fun fact: Running My Final Project for Bachelor's Degree in this year
-- 📄 Know about my experiences [in LinkedIn.] (https://www.linkedin.com/in/yohanabchristanti/)
+- 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
 
 
 <p align="center">
