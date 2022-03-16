@@ -1,4 +1,4 @@
-<h1> Hi, I'm Yohana <h1>
+<h1> Hi, I'm Yohana </h1>
 
 - 🔭 I’m currently working on Automotive Manufacturing
 - 🌱 I’m currently learning Python & React Native
