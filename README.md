@@ -42,11 +42,6 @@ Here are some ideas to get you started:
 ## 📈 Metrics
 
 <p align="center">
-    <img src="metrics.plugin.topics.mastered.svg" alt="Metrics"/>
     <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
     <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
-    <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
-    <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/>
-    <img src="metrics.plugin.pagespeed.svg" alt="Metrics"/>
-    <img src="metrics.plugin.gists.svg" alt="Metrics"/>
 </p>
