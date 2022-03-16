@@ -26,9 +26,6 @@ Here are some ideas to get you started:
         <img src="https://badges.pufler.dev/repos/lordronz?style=flat-square&color=690000" alt="Repos Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/gists/jojohahana?style=flat-square&color=690000" alt="Gists Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/commits/monthly/jojohahana?style=flat-square&color=690000" alt="Commits Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
@@ -40,4 +37,16 @@ Here are some ideas to get you started:
     <a href="https://github.com/jojohahana/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=690000" alt="jojohahana"/>
     </a>
+</p>
+
+## 📈 Metrics
+
+<p align="center">
+    <img src="metrics.plugin.topics.mastered.svg" alt="Metrics"/>
+    <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
+    <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
+    <img src="metrics.plugin.achivements.svg" alt="Metrics"/>
+    <img src="metrics.plugin.personal.anilist.svg" alt="Metrics"/>
+    <img src="metrics.plugin.pagespeed.svg" alt="Metrics"/>
+    <img src="metrics.plugin.gists.svg" alt="Metrics"/>
 </p>
