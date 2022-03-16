@@ -1,8 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Yohana Christanti</h1>
 
-- 🔭 I’m currently working on Automotive Manufacturing
-- 🌱 I’m currently learning Python & React Native
-- ⚡ Fun fact: Running My Final Project for Bachelor's Degree in this year
+- 🔭 I’m currently working on Automotive Manufacturing for Business Process
+- 🌱 I’m currently learning Python & React Native  
+- 👀 I’m interested in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design**
+- 📫 How to reach me **yohana.chriezt@gmail.com**
 - 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
 
 
