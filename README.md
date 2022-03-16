@@ -1,29 +1,16 @@
 ### Hi there 👋 I'm Yohana Christanti
 
-<!--
-**jojohahana/jojohahana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Hi, I'm Yohana <h1>
 
 <p align="center">
     <a href="https://github.com/jojohahana/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=lordronz&label=Profile%20views&color=690000&style=flat-square" alt="jojohahana"/>
+        <img src="https://komarev.com/ghpvc/?username=jojohahana&label=Profile%20views&color=690000&style=flat-square" alt="jojohahana"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/jojohahana?style=flat-square&color=690000" alt="Years Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/repos/lordronz?style=flat-square&color=690000" alt="Repos Badge"/>
+        <img src="https://badges.pufler.dev/repos/jojohahana?style=flat-square&color=690000" alt="Repos Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/commits/monthly/jojohahana?style=flat-square&color=690000" alt="Commits Badge"/>
@@ -45,3 +32,9 @@ Here are some ideas to get you started:
     <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
     <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
 </p>
+
+- 🔭 I’m currently working on Automotive Manufacturing
+- 🌱 I’m currently learning Python & React Native
+- ⚡ Fun fact: Running My Final Project for Bachelor's Degree in this year
+
+
