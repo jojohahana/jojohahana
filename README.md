@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Yohana Christanti</h1>
 
-- 🔭 I’m currently working on Automotive Manufacturing for Business Process
+- 🔭 I’m currently working on Automotive Manufacturing for Business Process & User Interaction
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science
 - 🌱 I’m currently learning Python & React Native  
 - 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design**
