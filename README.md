@@ -1,6 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Yohana Christanti</h1>
 
 - 🔭 I’m currently working on Automotive Manufacturing for Business Process
+- 
 - 🌱 I’m currently learning Python & React Native  
 - 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design**
 - 📫 How to reach me **yohana.chriezt@gmail.com**
@@ -35,5 +36,5 @@
 
 <p align="center">
     <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
-    <img src="metrics.plugin.calendar.svg" alt="Metrics"/>
+    <!-- <img src="metrics.plugin.calendar.svg" alt="Metrics"/> -->
 </p>
