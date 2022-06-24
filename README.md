@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Automotive Manufacturing for Business Process & User Interaction
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science
-- 🌱 I’m currently learning Python & React Native  
-- 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design**
+- 🌱 I’m currently learning Python & React
+- 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design, & Business Analyst**
 - 📫 How to reach me **yohana.chriezt@gmail.com**
 - 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
 
