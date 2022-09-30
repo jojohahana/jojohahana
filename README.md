@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm Yohana and on progress finish my Final Project 🤞</h1>
+<h1 align="center"> Hello, I'm Yohana 🤞</h1>
 
-- 🔭 Currently working in Automotive Manufacturing for Business Process & User Interaction
+- 🔭 Currently working in Automotive Manufacturing for System Analyst, Database Management & Project Management ERP 
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science
 - 🌱 Learning Tailwindcss, React & Python
 - 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design, & Business Analyst**
