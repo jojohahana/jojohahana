@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Yohana</h1>
+<h1 align="center"> Hi, I'm Yohana and on progress finish my Final Project 🤞</h1>
 
 - 🔭 Currently working in Automotive Manufacturing for Business Process & User Interaction
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science
