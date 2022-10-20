@@ -23,9 +23,3 @@
     </a>
 </p>
 
-## 📈 Metrics
-
-<p align="center">
-    <img src="metrics.plugin.languages.details.svg" alt="Metrics"/>
-    <!-- <img src="metrics.plugin.calendar.svg" alt="Metrics"/> -->
-</p>
