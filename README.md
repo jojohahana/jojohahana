@@ -1,8 +1,9 @@
 <h1 align="center"> Hello, I'm Yohana 🤞</h1>
 
 - 🔭 Currently working in Automotive Manufacturing for System Analyst, Database Management & Project Management ERP 
-- 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science
+- 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science | Gap Years after 6 years and I'm proud of it 💪🏻
 - 🌱 Learning Tailwindcss, React & Python
+- 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
 - 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design, & Business Analyst**
 - 📫 How to reach me **yohana.chriezt@gmail.com**
 - 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
