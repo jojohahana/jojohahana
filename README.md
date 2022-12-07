@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Yohana 👋🏻</h1>
 
-- 🔭 Currently working in Automotive Manufacturing for System Analyst, Database Management & Project Management ERP 
+- 🔭 Currently working in Automotive Manufacturing for Software Development & Project Management ERP 
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science | Gap Years after 6 years and I'm proud of it 💪🏻
 - 🌱 Learning Tailwindcss, Laravelmix, React & Python
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
