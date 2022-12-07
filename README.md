@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Yohana 🤞</h1>
+<h1 align="center"> Hello, I'm Yohana 👋🏻</h1>
 
 - 🔭 Currently working in Automotive Manufacturing for System Analyst, Database Management & Project Management ERP 
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science | Gap Years after 6 years and I'm proud of it 💪🏻
