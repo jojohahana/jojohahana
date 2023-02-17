@@ -1,5 +1,4 @@
-<h1 align="center"> Hello, I'm Yohana 👋🏻</h1>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 </div>
 
 - 🔭 Currently working in Automotive Manufacturing for System Development, Project Management ERP & Database Administrator
