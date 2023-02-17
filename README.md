@@ -1,4 +1,6 @@
 <h1 align="center"> Hello, I'm Yohana 👋🏻</h1>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
 - 🔭 Currently working in Automotive Manufacturing for System Development, Project Management ERP & Database Administrator
 - 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science | Gap Years after 6 years and I'm proud of it 💪🏻
