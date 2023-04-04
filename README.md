@@ -1,8 +1,8 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 
-- 🔭 Currently working in Automotive Manufacturing for System Development, Project Management ERP & Database Administrator
-- 🎓 Final year student currently pursuing Bachelor's Degree in Computer Science | Gap Years after 6 years and I'm proud of it 💪🏻
+- 🔭 Currently working in Automotive Manufacturing for SAP SD
+- 🎓 Bachelor's Degree in Computer Science
 - 🌱 Learning Flutter, Laravelmix, Python & Tailwind CSS
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
 - 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design, & Business Analyst**
