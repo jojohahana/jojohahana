@@ -5,7 +5,7 @@
 - 🎓 Bachelor's Degree in Computer Science
 - 🌱 Learning Flutter, Laravelmix, Python & Tailwind CSS
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
-- 👀 Interest in **Webdev, Mobile Apps Development, Data Analyst, UI/UX Design, & Business Analyst**
+- 👀 Interest in **Webdev, Mobile Apps Development, System Analyst, UI/UX Design, & Business Analyst**
 - 📫 How to reach me **cappyhoding@gmail.com**
 - 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
 
