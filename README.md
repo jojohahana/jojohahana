@@ -1,7 +1,7 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 
 
-- 🔭 Currently working in Automotive Manufacturing for SAP SD
+- 🔭 Currently working in Automotive Manufacturing for System Analyst - On Going Project Implementation SAP SD
 - 🎓 Bachelor's Degree in Computer Science
 - 🌱 Learning Flutter, Laravelmix, Python & Tailwind CSS
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
