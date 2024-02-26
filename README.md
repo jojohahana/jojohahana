@@ -1,9 +1,9 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h2 align="center"> A System Developer Caught Up in the Digitalization of Automotive Manufacturing</h2>
 
-
-- 🔭 Currently working in Automotive Manufacturing for System Analyst - On Going Project Implementation SAP SD
+- 🔭 Currently working in Automotive Manufacturing handled WMS & Implementation SAP SD
 - 🎓 Bachelor's Degree in Computer Science
-- 🌱 Learning Flutter, Laravelmix, Python & Tailwind CSS
+- 🌱 Learning Flutter, Laravelmix & Tailwind CSS
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
 - 👀 Interest in **Webdev, Mobile Apps Development, System Analyst, UI/UX Design, & Business Analyst**
 - 📫 How to reach me **cappyhoding@gmail.com**
