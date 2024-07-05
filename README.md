@@ -1,7 +1,7 @@
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
-<h2 align="center"> A System Developer Caught Up in the Digitalization of Automotive Manufacture</h2>
+<h2 align="center"> A System Developer Caught Up in the Digitalization of Manufacture</h2>
 
-- 🔭 Currently working in Automotive Manufacturing handled WMS & Implementation SAP SD
+- 🔭 Currently working in Medical Device Manufacture handling SAP S/4 HANA & System Development
 - 🎓 Bachelor's Degree in Computer Science
 - 🌱 Learning Flutter, Laravelmix & Tailwind CSS
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
