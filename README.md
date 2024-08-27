@@ -3,9 +3,9 @@
 
 - 🔭 Currently working in Medical Device Manufacture handling SAP S/4 HANA & System Development
 - 🎓 Bachelor's Degree in Computer Science
-- 🌱 Learning React, Flutter & Tailwind CSS
+- 🌱 Learning Laravel, Vue, React, Flutter & Tailwind
 - 👩🏻‍💻 Sometimes I share my journey about career & study journey on [my Medium](https://medium.com/@yohana-chriezt)
-- 👀 Interest in **ERP, System Development, Webdev UI/UX Design, & Business Analyst**
+- 👀 Interest in **ERP, System Development, Webdev UI/UX Design, & System Analyst**
 - 📫 How to reach me **cappyhoding@gmail.com**
 - 📄 Know about my experiences [in LinkedIn.](https://www.linkedin.com/in/yohanabchristanti/) 
 
